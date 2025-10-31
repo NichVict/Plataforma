@@ -167,7 +167,7 @@ st.markdown(
 st.markdown(
     clickable_card(
         "logo.png",
-        "https://calculadoranotion.streamlit.app/",
+        "https://notional.streamlit.app/",
         "NOTIONAL",
         "Calculadora de Notional de Opções",
         "Descubra a equivalência entre comprar Ações e Opções",
